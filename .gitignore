@@ -434,3 +434,5 @@ $RECYCLE.BIN/
 
 # IdentiyServer generating file
 *.rsa
+
+*.db
